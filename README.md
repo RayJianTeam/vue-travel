@@ -1,2 +1,2 @@
 # vue-travel
-:travel:travelApp
+:palm_tree:travelApp
